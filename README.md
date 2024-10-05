@@ -22,7 +22,6 @@ Les principaux objectifs de ce projet étaient :
 ## Instructions d'Installation
 
 ### Prérequis
-Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
 
 - **Python 3.x**
 - **Pandas**
